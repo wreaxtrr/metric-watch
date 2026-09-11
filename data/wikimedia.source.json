@@ -1,0 +1,24 @@
+{
+  "retrieved_at": "2026-09-11T20:19:11.752339+00:00",
+  "timezone": "UTC",
+  "project": "en.wikipedia.org",
+  "agent": "user",
+  "access": "all-access",
+  "sources": [
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/Python_%28programming_language%29/daily/2025010100/2025063000",
+      "article": "Python_(programming_language)",
+      "rows": 181
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/SQL/daily/2025010100/2025063000",
+      "article": "SQL",
+      "rows": 181
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/Statistics/daily/2025010100/2025063000",
+      "article": "Statistics",
+      "rows": 181
+    }
+  ]
+}

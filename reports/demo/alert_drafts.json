@@ -1,0 +1,122 @@
+[
+  {
+    "series": "docs",
+    "start": "2025-05-11",
+    "end": "2025-05-12",
+    "direction": "up",
+    "days": 2,
+    "max_score": 21.151646618024056
+  },
+  {
+    "series": "docs",
+    "start": "2025-07-10",
+    "end": "2025-07-13",
+    "direction": "down",
+    "days": 4,
+    "max_score": 11.352578657152124
+  },
+  {
+    "series": "docs",
+    "start": "2025-09-08",
+    "end": "2025-09-10",
+    "direction": "up",
+    "days": 3,
+    "max_score": 15.911994322214335
+  },
+  {
+    "series": "docs",
+    "start": "2025-10-18",
+    "end": "2025-10-22",
+    "direction": "down",
+    "days": 5,
+    "max_score": 13.07270475853529
+  },
+  {
+    "series": "docs",
+    "start": "2025-12-02",
+    "end": "2025-12-03",
+    "direction": "up",
+    "days": 2,
+    "max_score": 25.816733067729082
+  },
+  {
+    "series": "help",
+    "start": "2025-05-11",
+    "end": "2025-05-12",
+    "direction": "up",
+    "days": 2,
+    "max_score": 22.9126213592233
+  },
+  {
+    "series": "help",
+    "start": "2025-07-10",
+    "end": "2025-07-13",
+    "direction": "down",
+    "days": 4,
+    "max_score": 12.193375111906892
+  },
+  {
+    "series": "help",
+    "start": "2025-09-08",
+    "end": "2025-09-10",
+    "direction": "up",
+    "days": 3,
+    "max_score": 15.81716833890747
+  },
+  {
+    "series": "help",
+    "start": "2025-10-18",
+    "end": "2025-10-22",
+    "direction": "down",
+    "days": 5,
+    "max_score": 13.043478260869565
+  },
+  {
+    "series": "help",
+    "start": "2025-12-02",
+    "end": "2025-12-03",
+    "direction": "up",
+    "days": 2,
+    "max_score": 25.015240804714487
+  },
+  {
+    "series": "status",
+    "start": "2025-05-11",
+    "end": "2025-05-12",
+    "direction": "up",
+    "days": 2,
+    "max_score": 23.00246072835699
+  },
+  {
+    "series": "status",
+    "start": "2025-07-10",
+    "end": "2025-07-13",
+    "direction": "down",
+    "days": 4,
+    "max_score": 11.158392434988178
+  },
+  {
+    "series": "status",
+    "start": "2025-09-08",
+    "end": "2025-09-10",
+    "direction": "up",
+    "days": 3,
+    "max_score": 14.168746879680478
+  },
+  {
+    "series": "status",
+    "start": "2025-10-18",
+    "end": "2025-10-22",
+    "direction": "down",
+    "days": 5,
+    "max_score": 13.264462809917354
+  },
+  {
+    "series": "status",
+    "start": "2025-12-02",
+    "end": "2025-12-03",
+    "direction": "up",
+    "days": 2,
+    "max_score": 23.097300050942433
+  }
+]

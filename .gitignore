@@ -3,5 +3,6 @@ __pycache__/
 *.sqlite
 .venv/
 .env
+.mpl-cache/
 reports/*/scores.csv
 reports/*/synthetic.csv

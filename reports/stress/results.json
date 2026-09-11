@@ -1,0 +1,58 @@
+[
+  {
+    "scenario": "different_seed",
+    "seed": 2026,
+    "noise": 0.035,
+    "anomaly_strength": 1.0,
+    "method": "global",
+    "frozen_threshold": 2,
+    "tp": 21,
+    "fp": 0,
+    "fn": 9,
+    "precision": 1.0,
+    "recall": 0.7,
+    "false_alerts_per_100_normal_days": 0.0
+  },
+  {
+    "scenario": "different_seed",
+    "seed": 2026,
+    "noise": 0.035,
+    "anomaly_strength": 1.0,
+    "method": "seasonal",
+    "frozen_threshold": 6,
+    "tp": 30,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "false_alerts_per_100_normal_days": 0.0
+  },
+  {
+    "scenario": "noisy_weak_incidents",
+    "seed": 2026,
+    "noise": 0.15,
+    "anomaly_strength": 0.3,
+    "method": "global",
+    "frozen_threshold": 2,
+    "tp": 10,
+    "fp": 6,
+    "fn": 20,
+    "precision": 0.625,
+    "recall": 0.3333333333333333,
+    "false_alerts_per_100_normal_days": 1.5267175572519085
+  },
+  {
+    "scenario": "noisy_weak_incidents",
+    "seed": 2026,
+    "noise": 0.15,
+    "anomaly_strength": 0.3,
+    "method": "seasonal",
+    "frozen_threshold": 6,
+    "tp": 2,
+    "fp": 2,
+    "fn": 28,
+    "precision": 0.5,
+    "recall": 0.06666666666666667,
+    "false_alerts_per_100_normal_days": 0.5089058524173028
+  }
+]
